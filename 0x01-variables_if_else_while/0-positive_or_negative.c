@@ -17,15 +17,15 @@ int main(void)
 	/* your code goes there */
 if (n > 0)
 {
-printf("is positive\n");
+printf("Number = %d"is positive\n");
 }
 else if (n == 0)
 {
-printf("is zero\n");
+printf("Number = %d"is zero\n");
 }
 else
 {
-printf("is nagative\n");
+printf("Number = %d"is nagative\n");
 }
 return (0);
 }
