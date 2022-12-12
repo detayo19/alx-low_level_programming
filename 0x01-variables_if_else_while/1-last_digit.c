@@ -28,5 +28,5 @@ else
 printf("%d and is less than 6 and not 0\n", n);
 }
 return (0);
-}
+
 
